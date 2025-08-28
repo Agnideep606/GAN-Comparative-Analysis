@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Datasets
+data/
+datasets/
+
+# Model checkpoints and weights
+*.pt
+*.pth
+checkpoints/
+runs/
+
+# Generated images & heavy outputs
+generated_images/
+outputs/
+
+# Logs
+*.log
+*.out
+
+# System files
+.DS_Store
+Thumbs.db
